@@ -42,4 +42,4 @@ Follow these steps to set up and run Dream 11 on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/dream-11.git
+   git clone https://github.com/mehefujali/dream-11-k.git
