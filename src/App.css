@@ -1,0 +1,11 @@
+.toggle-btn1 {
+      border-radius: 10px 0 0px 10px;
+      border: 2px solid rgba(196, 196, 196, 0.541);
+      border-right: none;
+}
+
+.toggle-btn2 {
+      border-radius: 0px 10px 10px 0px;
+      border: 2px solid rgba(196, 196, 196, 0.541);
+      border-left: none;
+}

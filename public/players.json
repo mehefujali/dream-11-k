@@ -1,0 +1,122 @@
+[
+      {
+            "id": 1,
+            "player_name": "Virat Kohli",
+            "image": "https://i.ibb.co/2Kj7drj/image.png",
+            "country": "India",
+            "role": "All-Rounder",
+            "rating": 92,
+            "batting_style": "Right-Hand-Bat",
+            "price": 45000
+      },
+      {
+            "id": 2,
+            "player_name": "Rohit Sharma",
+            "image": "https://i.ibb.co/xDkchkP/image.png",
+            "country": "India",
+            "role": "Batsman",
+            "rating": 89,
+            "batting_style": "Right-Hand-Bat",
+            "price": 42000
+      },
+      {
+            "id": 3,
+            "player_name": "David Warner",
+            "image": "https://i.ibb.co/YtBsm87/image.png",
+            "country": "Australia",
+            "role": "Batsman",
+            "rating": 88,
+            "batting_style": "Left-Hand-Bat",
+            "price": 47000
+      },
+      {
+            "id": 4,
+            "player_name": "Ben Stokes",
+            "image": "https://i.ibb.co/ng23mkw/image.png",
+            "country": "England",
+            "role": "All-Rounder",
+            "rating": 91,
+            "batting_style": "Right-Hand-Bat",
+            "price": 46000
+      },
+      {
+            "id": 5,
+            "player_name": "Kane Williamson",
+            "image": "https://i.ibb.co/56qXQLh/image.png",
+            "country": "New Zealand",
+            "role": "Batsman",
+            "rating": 90,
+            "batting_style": "Right-Hand-Bat",
+            "price": 43000
+      },
+      {
+            "id": 6,
+            "player_name": "AB de Villiers",
+            "image": "https://i.ibb.co/GdFpBdz/image.png",
+            "country": "South Africa",
+            "role": "Batsman",
+            "rating": 94,
+            "batting_style": "Right-Hand-Bat",
+            "price": 48000
+      },
+      {
+            "id": 7,
+            "player_name": "Steve Smith",
+            "image": "https://i.ibb.co/m0x3NKm/image.png",
+            "country": "Australia",
+            "role": "Batsman",
+            "rating": 91,
+            "batting_style": "Right-Hand-Bat",
+            "price": 46000
+      },
+      {
+            "id": 8,
+            "player_name": "Jasprit Bumrah",
+            "image": "https://i.ibb.co/HBKN5VR/image.png",
+            "country": "India",
+            "role": "Bowler",
+            "rating": 90,
+            "batting_style": "Right-Hand-Bat",
+            "price": 44000
+      },
+      {
+            "id": 9,
+            "player_name": "Rashid Khan",
+            "image": "https://i.ibb.co/rdynJGp/image.png",
+            "country": "Afghanistan",
+            "role": "All-Rounder",
+            "rating": 89,
+            "batting_style": "Right-Hand-Bat",
+            "price": 42000
+      },
+      {
+            "id": 10,
+            "player_name": "Joe Root",
+            "image": "https://i.ibb.co/ThWqh1m/image.png",
+            "country": "England",
+            "role": "Batsman",
+            "rating": 92,
+            "batting_style": "Right-Hand-Bat",
+            "price": 45000
+      },
+      {
+            "id": 11,
+            "player_name": "Shakib Al Hasan",
+            "image": "https://i.ibb.co/8gzXZqW/image.png",
+            "country": "Bangladesh",
+            "role": "All-Rounder",
+            "rating": 93,
+            "batting_style": "Left-Hand-Bat",
+            "price": 47000
+      },
+      {
+            "id": 12,
+            "player_name": "Mitchell Starc",
+            "image": "https://i.ibb.co/Ss9djxf/image.png",
+            "country": "Australia",
+            "role": "Bowler",
+            "rating": 88,
+            "batting_style": "Left-Hand-Bat",
+            "price": 44000
+      }
+]
