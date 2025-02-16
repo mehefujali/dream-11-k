@@ -16,7 +16,7 @@ function App() {
   const [coin, setCoin] = useState(0)
   const handelAddCoin = () => {
     setCoin(coin + 55000)
-    toast.success(`congrats! you won 55000 coin`)
+    toast.success(`congrats! you won 55000 coin`) 
 
   }
   const handleSetSlectedPlayer = (player) => {
