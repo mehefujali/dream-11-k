@@ -33,7 +33,7 @@ function App() {
     }
     else {
       if (slectedPlayer.length === 6) {
-        toast.error("Maximum player slected")
+        toast.error("Maximum player slected")  
       }
       else {
         toast.error("Player already slected")
